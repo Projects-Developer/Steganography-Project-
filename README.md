@@ -1,6 +1,8 @@
 # Steganography-Project-
 Steganography Project Code, Document And Video Tutorial
 
+![Steganography Project](https://github.com/user-attachments/assets/159fea2c-ec39-4aeb-9c61-32f6d5f1e856)
+
 ## Youtube link: https://youtu.be/FQdPvUdWco8?si=lH6hZQ6xMzedpXu2
 
 ## Abstract
